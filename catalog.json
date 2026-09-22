@@ -1,5 +1,21 @@
 [
   {
+    "id": "mcp-dubbing",
+    "category": "dubbing",
+    "name": "mcp-dubbing",
+    "description": "Generate and preview voiceover audio in VoxStudio using saved reference voices through MCP. Use for text-to-speech dubbing or auditioning a script in a chosen voice.",
+    "sha": "b31193f1214b",
+    "path": "skills/dubbing/mcp-dubbing/SKILL.md"
+  },
+  {
+    "id": "mcp-voice-reference",
+    "category": "dubbing",
+    "name": "mcp-voice-reference",
+    "description": "Create and preview reusable VoxStudio reference voices from short recordings through MCP. Use when the user wants to add a voice to the voice library for later dubbing.",
+    "sha": "881b2990b6a9",
+    "path": "skills/dubbing/mcp-voice-reference/SKILL.md"
+  },
+  {
     "id": "knowledge-qa",
     "category": "knowledge",
     "name": "knowledge-qa",
@@ -14,6 +30,14 @@
     "description": "Find VoxStudio sessions, transcript passages, speakers, and timestamps using knowledge-base search. Use when the user wants to locate evidence or browse matching recordings rather than receive a synthesized QA answer.",
     "sha": "4cd4571e2468",
     "path": "skills/knowledge/knowledge-search/SKILL.md"
+  },
+  {
+    "id": "mcp-transcription",
+    "category": "transcription",
+    "name": "mcp-transcription",
+    "description": "Transcribe audio or video in VoxStudio through MCP, generate multilingual subtitles, segment captions, switch language tracks, and preview timed transcripts. Use for new transcription and subtitle processing, not knowledge search.",
+    "sha": "3380f10964d7",
+    "path": "skills/transcription/mcp-transcription/SKILL.md"
   },
   {
     "id": "caption-templates",
