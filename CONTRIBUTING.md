@@ -5,7 +5,9 @@ We welcome developers and editors to submit their skills and share with the comm
 ## SKILL.md
 
 Create `skills/<domain>/<id>/SKILL.md`. Supported domains are `recording`,
-`transcription`, `dubbing`, and `video-editing`. The `<id>` folder name is the
+`transcription`, `dubbing`, `video-editing`, and `knowledge`.
+Knowledge skills should include `category: knowledge` in frontmatter so the App
+can discover them in its knowledge agent as well as the Community catalog. The `<id>` folder name is the
 skill's globally unique, lowercase, hyphenated stable id.
 
 ```markdown

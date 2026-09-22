@@ -1,7 +1,7 @@
 # VoxStudio Pro skills
 
 Curated and community skills for VoxStudio Pro's recording, transcription,
-dubbing, and video-editing workflows.
+dubbing, video-editing, and knowledge-base workflows.
 
 ## Domains
 
@@ -9,8 +9,11 @@ dubbing, and video-editing workflows.
 - `skills/transcription/`
 - `skills/dubbing/`
 - `skills/video-editing/`
+- `skills/knowledge/`
 
-The initial catalog contains VoxStudio Pro video-editing skills.
+Knowledge skills include grounded QA (`knowledge-qa`) and transcript/session search
+(`knowledge-search`). They work through VoxStudio MCP and the in-app knowledge
+agent; keep the App open. No video project is needed for knowledge tools.
 
 ## Quickstart
 

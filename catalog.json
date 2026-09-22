@@ -1,5 +1,21 @@
 [
   {
+    "id": "knowledge-qa",
+    "category": "knowledge",
+    "name": "knowledge-qa",
+    "description": "Answer questions and compare findings across VoxStudio recordings, meetings, and transcripts with source citations. Use for evidence-based knowledge-base QA and follow-up questions, including through VoxStudio MCP.",
+    "sha": "5aa878a688f7",
+    "path": "skills/knowledge/knowledge-qa/SKILL.md"
+  },
+  {
+    "id": "knowledge-search",
+    "category": "knowledge",
+    "name": "knowledge-search",
+    "description": "Find VoxStudio sessions, transcript passages, speakers, and timestamps using knowledge-base search. Use when the user wants to locate evidence or browse matching recordings rather than receive a synthesized QA answer.",
+    "sha": "4cd4571e2468",
+    "path": "skills/knowledge/knowledge-search/SKILL.md"
+  },
+  {
     "id": "caption-templates",
     "category": "video-editing",
     "name": "caption-templates",
